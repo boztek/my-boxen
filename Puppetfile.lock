@@ -71,7 +71,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boztek/puppet-vagrant
   specs:
-    vagrant (0.9)
+    vagrant (0.9.1)
 
 GITHUBTARBALL
   remote: cprice-puppet/puppetlabs-inifile
@@ -99,6 +99,6 @@ DEPENDENCIES
   stdlib (= 3.0.0)
   sublime_text_2 (= 1.0.0)
   sudo (= 1.0.0)
-  vagrant (= 0.9)
+  vagrant (= 0.9.1)
   virtualbox (= 1.0.0)
 

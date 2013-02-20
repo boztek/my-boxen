@@ -58,7 +58,6 @@ node default {
   include ruby
 
   include sublime_text_2
-  include virtualbox
   include vagrant
 
   # fail if FDE is not enabled
