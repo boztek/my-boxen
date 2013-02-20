@@ -59,6 +59,7 @@ node default {
 
   include sublime_text_2
   include virtualbox
+  include vagrant
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
