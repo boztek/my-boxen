@@ -38,3 +38,4 @@ github "sudo",     "1.0.0"
 # https://github.com/boxen.
 github "virtualbox", "1.0.0"
 github "sublime_text_2", "1.0.0"
+github "mysql", "1.0.0"
