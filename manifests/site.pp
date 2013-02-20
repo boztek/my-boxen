@@ -57,6 +57,8 @@ node default {
   include nvm
   include ruby
 
+  include virtualbox
+
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
     fail('Please enable full disk encryption and try again')

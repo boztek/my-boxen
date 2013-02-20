@@ -5,7 +5,8 @@
 # ENV['BOXEN_HOME'] = '/opt/boxen'
 
 # Change the repo boxen will use.
-# ENV['BOXEN_REPO_NAME'] = 'boxen/our-boxen'
+ENV['BOXEN_REPO_NAME'] = 'boztek/my-boxen'
+# ENV['BOXEN_SRC_DIR'] = '/opt/boxen/repo'
 
 # Boxen binary packaging
 # ENV["BOXEN_S3_ACCESS_KEY"] = ''
