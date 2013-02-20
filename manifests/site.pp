@@ -57,6 +57,7 @@ node default {
   include nvm
   include ruby
 
+  include sublime_text_2
   include virtualbox
 
   # fail if FDE is not enabled
