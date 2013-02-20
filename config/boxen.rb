@@ -6,6 +6,7 @@
 
 # Change the repo boxen will use.
 ENV['BOXEN_REPO_NAME'] = 'boztek/my-boxen'
+ENV['BOXEN_REPO_DIR'] = '/opt/boxen/repo'
 # ENV['BOXEN_SRC_DIR'] = '/opt/boxen/repo'
 
 # Boxen binary packaging
