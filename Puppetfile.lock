@@ -69,6 +69,11 @@ GITHUBTARBALL
     virtualbox (1.0.0)
 
 GITHUBTARBALL
+  remote: boztek/puppet-php
+  specs:
+    php (0.1)
+
+GITHUBTARBALL
   remote: boztek/puppet-vagrant
   specs:
     vagrant (0.9.1)
@@ -95,6 +100,7 @@ DEPENDENCIES
   nginx (= 1.0.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
+  php (= 0.1)
   ruby (= 1.0.0)
   stdlib (= 3.0.0)
   sublime_text_2 (= 1.0.0)

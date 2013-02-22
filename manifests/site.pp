@@ -56,6 +56,8 @@ node default {
   include nginx
   include nvm
   include ruby
+  include mysql
+  include php
 
   include sublime_text_2
   include vagrant
