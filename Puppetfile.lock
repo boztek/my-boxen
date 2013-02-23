@@ -69,9 +69,14 @@ GITHUBTARBALL
     virtualbox (1.0.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-vlc
+  specs:
+    vlc (1.0.0)
+
+GITHUBTARBALL
   remote: boztek/puppet-php
   specs:
-    php (0.1)
+    php (0.4)
 
 GITHUBTARBALL
   remote: boztek/puppet-vagrant
@@ -100,11 +105,12 @@ DEPENDENCIES
   nginx (= 1.0.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
-  php (= 0.1)
+  php (= 0.4)
   ruby (= 1.0.0)
   stdlib (= 3.0.0)
   sublime_text_2 (= 1.0.0)
   sudo (= 1.0.0)
   vagrant (= 0.9.1)
   virtualbox (= 1.0.0)
+  vlc (= 1.0)
 
