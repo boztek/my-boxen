@@ -68,13 +68,13 @@ node default {
   }
 
   # node versions
-  include nodejs::0-4
-  include nodejs::0-6
+  # include nodejs::0-4
+  # include nodejs::0-6
   include nodejs::0-8
 
   # default ruby versions
-  include ruby::1-8-7
-  include ruby::1-9-2
+  # include ruby::1-8-7
+  # include ruby::1-9-2
   include ruby::1-9-3
 
   # common, useful packages
